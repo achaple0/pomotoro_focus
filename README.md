@@ -1,7 +1,7 @@
 # pomotoro_focus
 ⏱️ Pomotoro — A Simple CLI Pomodoro Timer
 
-Pomotorro is a command-line productivity tool designed to help you manage focused work sessions and breaks using the Pomodoro Technique.
+Pomotoro is a command-line productivity tool designed to help you manage focused work sessions and breaks using the Pomodoro Technique.
 I created this as an internal tool to use during my workday as an IT Specialist, where I needed an easy, distraction-free timer to stay focused on deep work tasks right in the terminal.
 
 🚀 Features
@@ -26,19 +26,19 @@ Automatically transition between focus and break sessions or choose when to star
 The Pomodoro Technique is a time management method that uses structured intervals — typically 25 minutes of focused work followed by a 5-minute break — to improve productivity and focus.
 After completing four Pomodoros, a longer break (15–30 minutes) is usually taken.
 
-Pomotorro is built around this concept to encourage healthy, consistent work patterns.
+Pomotoro is built around this concept to encourage healthy, consistent work patterns.
 
 ⚙️ How to Use
 
 Clone this repository:
 
-git clone https://github.com/<yourusername>/pomotorro.git
-cd pomotorro
+git clone https://github.com/<yourusername>/pomotoro.git
+cd pomotoro
 
 
 Run the program:
 
-python pomotorro.py
+python main.py
 
 
 Follow the prompts:
@@ -65,8 +65,8 @@ What will you like to do:
 Session Completed! Nice work! Would you like to begin your break? y/n
 
 🧩 Project Structure
-pomotorro/
-├── pomotorro.py   # Main CLI script
+pomotoro/
+├── main.py   # Main CLI script
 └── README.md      # Project documentation
 
 🛠️ Built With
