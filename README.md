@@ -1,5 +1,5 @@
 # pomotoro_focus
-⏱️ Pomotorro — A Simple CLI Pomodoro Timer
+⏱️ Pomotoro — A Simple CLI Pomodoro Timer
 
 Pomotorro is a command-line productivity tool designed to help you manage focused work sessions and breaks using the Pomodoro Technique.
 I created this as an internal tool to use during my workday as an IT Specialist, where I needed an easy, distraction-free timer to stay focused on deep work tasks right in the terminal.
