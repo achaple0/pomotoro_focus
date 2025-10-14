@@ -32,7 +32,7 @@ Pomotoro is built around this concept to encourage healthy, consistent work patt
 
 Clone this repository:
 
-git clone https://github.com/<yourusername>/pomotoro.git
+git clone https://github.com/achaple0/pomotoro_focus.git
 cd pomotoro
 
 
